@@ -10,6 +10,7 @@ The script deletes all the duplicate files in the directory where it runs.
 # Scope:
 * Shows the list of files before deleting.
 * Applicable to all formats like .pdf, .txt, .jpeg .mp3, .mp4, .py etc.
+* Calculates the execution time.
 
 # Execution:
 #### Type python src.py in command prompt.
