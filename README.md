@@ -13,7 +13,6 @@ The script deletes all the duplicate files in the directory where it runs.
 <<<<<<< HEAD
 =======
 * Calculates the execution time.
->>>>>>> 9cbc15b2e5028013f2241ab971971cd0f786ce77
 
 # Execution:
 #### Type python src.py in command prompt.
