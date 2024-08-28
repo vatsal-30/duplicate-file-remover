@@ -1,19 +1,17 @@
-# Duplicate files remover
+# Duplicate Files Remover
 The script deletes all the duplicate files in the directory where it runs.
 
-# Technologies used:
+## Technologies:
 * Python
-* os
-* time
-* hashlib (No external libraries)
+* hashlib
 
-# Scope:
+## Scope:
 * Shows the list of files before deleting.
 * Applicable to all formats like .pdf, .txt, .jpeg .mp3, .mp4, .py etc.
 * Calculates the execution time.
 
-# Execution:
-**Type python src.py in command prompt.**
+## Execution:
+Type ```python src.py``` in the folder containing duplicate files
 
 ## Output:
 
